@@ -1,5 +1,13 @@
 # @emotion/server
 
+## 11.0.0-next.12
+
+### Patch Changes
+
+- Updated dependencies [[`e3d7db87`](https://github.com/emotion-js/emotion/commit/e3d7db87deaac95817404760112417ac1fa1b56d)]:
+  - @emotion/babel-plugin@11.0.0-next.12
+  - @emotion/css@11.0.0-next.12
+
 ## 11.0.0-next.10
 
 ### Major Changes

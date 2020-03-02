@@ -1,5 +1,17 @@
 # @emotion/react
 
+## 11.0.0-next.12
+
+### Patch Changes
+
+- [`7dea6d7a`](https://github.com/emotion-js/emotion/commit/7dea6d7a9a87f00cf9b695b58a2f65b67e17fabd) [#1734](https://github.com/emotion-js/emotion/pull/1734) Thanks [@Andarist](https://github.com/Andarist)! - Fixed styles inserted by `<Global/>` component not inheriting `speedy` option from a cache passed to a wrapping `<CacheProvider/>`.
+
+- Updated dependencies [[`e3d7db87`](https://github.com/emotion-js/emotion/commit/e3d7db87deaac95817404760112417ac1fa1b56d)]:
+  - @emotion/serialize@1.0.0-next.0
+  - @emotion/styled@11.0.0-next.12
+  - @emotion/css@11.0.0-next.12
+  - @emotion/server@11.0.0-next.12
+
 ## 11.0.0-next.11
 
 ### Patch Changes

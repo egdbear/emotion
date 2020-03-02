@@ -1,5 +1,13 @@
 # @emotion/jest
 
+## 11.0.0-next.12
+
+### Patch Changes
+
+- Updated dependencies [[`7dea6d7a`](https://github.com/emotion-js/emotion/commit/7dea6d7a9a87f00cf9b695b58a2f65b67e17fabd)]:
+  - @emotion/react@11.0.0-next.12
+  - @emotion/css@11.0.0-next.12
+
 ## 11.0.0-next.10
 
 ### Major Changes
